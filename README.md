@@ -81,7 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Created with ❤️ by SCODE SiberWin  Studios
 
 <div align="center">
-  <img src="logo.png" alt="SCODE Logo" width="200"/>
+  <img src="[logo.png](https://i.hizliresim.com/ry7faya.png)" alt="SCODE Logo" width="200"/>
   
   **[Discord](https://discord.gg/DqnAqdR22d)** | **[Tebex](https://scode.tebex.io)** | **[Website](https://siberwin.com)**
 </div>
